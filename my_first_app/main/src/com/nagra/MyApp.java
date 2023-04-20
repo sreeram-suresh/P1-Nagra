@@ -11,7 +11,7 @@ public class MyApp {
         System.out.println("Hello!!, It's Sreeram here");
         try {
             // Load the image file
-            File imageFile = new File("src/main/resources/Images/brain-mech.jpg");
+            File imageFile = new File("brain-mech.jpg");
             BufferedImage image = ImageIO.read(imageFile);
 
             // Resize the image to a smaller size for better ASCII representation
