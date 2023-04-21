@@ -88,11 +88,11 @@ You have two options to authenticate when pushing a change to your repository :
 1.2 Screenshot of docker running
 ![](doc/dockerimagerunning.png)
 
-Q. What is the prerequisite for another machine to run your application if you provide it the docker image ?
+Q. What is the prerequisite for another machine to run your application if you provide it the docker image ?\
 A. For anyone to run an docker image on their local system, it's mandatory for them to have docker installed on thier system and make sure if the docker is running.
 In case we are running in the Windows platform we require Docker Desktop application or a linux subsystem with docker installed on it.
 
-Q.What is the difference between a virtual machine and a docker container ?
+Q.What is the difference between a virtual machine and a docker container ?\
 A.Virtual machines require a complete copy of the operating system and application dependencies, which makes them slower to deploy and consume more storage where as in Docker containers, it can be easily deployed by sharing the host operating system's kernel and application dependencies.
 
 ## Deadline
