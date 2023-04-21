@@ -87,7 +87,7 @@ You have two options to authenticate when pushing a change to your repository :
 1.2 Screenshot of docker running
 ![](doc/dockerimagerunning.png)
 
-2 Screenshot of docker running
+2 Screenshot of App
 ![](doc/appoutput.png)
 
 Q. What is the prerequisite for another machine to run your application if you provide it the docker image ?\
