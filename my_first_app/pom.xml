@@ -40,7 +40,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.nagra.MyApp</mainClass>
+                                    <mainClass>com.nagra.MyApp</mainClass>:wq.s
                                 </manifest>
                             </archive>
                             <descriptorRefs>

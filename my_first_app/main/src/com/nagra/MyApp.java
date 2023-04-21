@@ -11,11 +11,11 @@ public class MyApp {
         System.out.println("Hello!!, It's Sreeram here");
         try {
             // Load the image file
-            File imageFile = new File("target/classes/Images/brain-mech.jpg");
+            File imageFile = new File("mebr.jpg");
             BufferedImage image = ImageIO.read(imageFile);
 
             // Resize the image to a smaller size for better ASCII representation
-            int newWidth = image.getWidth() / 8;
+            int newWidth = image.getWidth() / 16;
             int newHeight = image.getHeight() / 16;
             BufferedImage resizedImage = new BufferedImage(newWidth, newHeight, BufferedImage.TYPE_INT_RGB);
             resizedImage.createGraphics().drawImage(image, 0, 0, newWidth, newHeight, null);
