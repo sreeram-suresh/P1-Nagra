@@ -80,8 +80,7 @@ You have two options to authenticate when pushing a change to your repository :
     - What is the difference between a virtual machine and a docker container ?
 - Refer to https://www.markdownguide.org/basic-syntax/ to learn about markdown syntax (ie. how to include pictures)
 
-##Answers
-
+ ## Answers
 1.1 Screenshot of docker image
 ![](doc/listofimages.png)
 
