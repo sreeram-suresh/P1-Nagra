@@ -83,7 +83,7 @@ You have two options to authenticate when pushing a change to your repository :
 ##Answers
 
 1.1 Screenshot of docker image
-![](doc/lisofimages.png)
+![](doc/listofimages.png)
 
 1.2 Screenshot of docker running
 ![](doc/dockerimagerunning.png)
