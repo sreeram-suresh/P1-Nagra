@@ -87,6 +87,9 @@ You have two options to authenticate when pushing a change to your repository :
 1.2 Screenshot of docker running
 ![](doc/dockerimagerunning.png)
 
+2 Screenshot of docker running
+![](doc/appoutput.png)
+
 Q. What is the prerequisite for another machine to run your application if you provide it the docker image ?\
 A. For anyone to run an docker image on their local system, it's mandatory for them to have docker installed on thier system and make sure if the docker is running.
 In case we are running in the Windows platform we require Docker Desktop application or a linux subsystem with docker installed on it.
