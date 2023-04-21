@@ -79,5 +79,21 @@ You have two options to authenticate when pushing a change to your repository :
         - In term of Operating System, pre-installed app, etc...
     - What is the difference between a virtual machine and a docker container ?
 - Refer to https://www.markdownguide.org/basic-syntax/ to learn about markdown syntax (ie. how to include pictures)
+
+##Answers
+
+1.1 Screenshot of docker image
+![](doc/lisofimages.png)
+
+1.2 Screenshot of docker running
+![](doc/dockerimagerunning.png)
+
+Q. What is the prerequisite for another machine to run your application if you provide it the docker image ?
+A. For anyone to run an docker image on their local system, it's mandatory for them to have docker installed on thier system and make sure if the docker is running.
+In case we are running in the Windows platform we require Docker Desktop application or a linux subsystem with docker installed on it.
+
+Q.What is the difference between a virtual machine and a docker container ?
+A.Virtual machines require a complete copy of the operating system and application dependencies, which makes them slower to deploy and consume more storage where as in Docker containers, it can be easily deployed by sharing the host operating system's kernel and application dependencies.
+
 ## Deadline
 Send me your git repo link on discord through direct message by **Friday, 21th April, 5pm**.
